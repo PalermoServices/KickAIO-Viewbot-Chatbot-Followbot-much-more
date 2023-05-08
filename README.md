@@ -1,5 +1,5 @@
 
-# KickAIO | Live Views | Followers | Chatbot | Clip View & Like | Much more...
+# KickVIEWBOT | Live Views | Followers | Chatbot | Clip View & Like | Much more...
 
 This is fully automated tool for Kick.com Streaming Platform
 

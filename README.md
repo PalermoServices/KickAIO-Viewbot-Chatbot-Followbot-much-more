@@ -6,7 +6,7 @@ This is fully automated tool for Kick.com Streaming Platform
 # - How to use?
 - You can use proxies or proxyless mode.
 - Mail API Key from [here](https://kopeechka.store)
-- Join Us: https://discord.gg/wZU6kAJUq9
+- Join Us: https://discord.gg/GUdRCRwGRg
 - Discord Tag: @EmilOfficial#8477
 
 
